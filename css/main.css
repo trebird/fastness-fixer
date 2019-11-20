@@ -3,9 +3,6 @@ html {
 }
 
 h1,
-h2 {
-  font-family: "Delius Unicase", sans-serif;
-}
 
 h2 {
   color: #93612c;
@@ -29,7 +26,6 @@ h2 {
 
 .banner-content {
   color: #fff;
-  font-family: Lobster, sans-serif;
   text-shadow: .1em .1em .3em rgba(0, 0, 0, .6);
 }
 
