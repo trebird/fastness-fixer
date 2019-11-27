@@ -144,3 +144,32 @@ svg.img-flex {
   float: left;
   min-width: 12em;
 }
+
+.valign-middle {
+  vertical-align: middle;
+}
+
+.inline-block, .ib {
+  display: inline-block;
+}
+
+.relative {
+  position: relative;
+}
+
+[class*="pin-"],
+.absolute {
+  position: absolute;
+}
+
+.pin-top-left,
+.pin-left-top,
+.pin-tl,
+.pin-lt {
+  top: 0;
+  left: 0;
+}
+
+.block {
+  display: block;
+}
